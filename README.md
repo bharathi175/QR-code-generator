@@ -1,15 +1,20 @@
+
 QR Code Generator
+
 QR Code Generator is a simple, fast, and interactive Node.js CLI tool that turns any URL into a QR code instantly. It also saves the URLs in a text file for easy reference.
+
 Key Features
 Interactive URL Input: Get URLs from users via Inquirer.js.
 QR Code Generation: Creates QR code images using qr-image.
 Data Persistence: Saves entered URLs in URL.txt.
 Quick Output: QR images saved as qr_img.png.
 Quick Start (For Developers)
+
 To get the project running locally:
 
 Clone the repository:
 git clone https://github.com/yourusername/qr_code_project.git
+
 cd qr_code_project
 
 Install dependencies:
